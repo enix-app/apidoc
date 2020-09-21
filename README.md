@@ -1,5 +1,7 @@
 # apidoc
 
+***!!! EXPERIMENTAL !!!***
+
 Serves your PHP files as local documentation.
 
 ## Usage
